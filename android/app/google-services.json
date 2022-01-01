@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058199649055",
+    "firebase_url": "https://iot-stupidhome-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-stupidhome",
+    "storage_bucket": "iot-stupidhome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058199649055:android:d8adf8985f4594f26dce2a",
+        "android_client_info": {
+          "package_name": "co.appbrewery.micard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058199649055-6cpa8k20jan5jgcfomi14peqjfe4m3q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsK-BSBfutKRJxIlK7aOXG8-ygEUnQ99o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058199649055-6cpa8k20jan5jgcfomi14peqjfe4m3q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
